@@ -17,3 +17,6 @@ cd $HOME
 git clone https://github.com/shadownex/shadownex-tools.git
 cd shadownex-tools
 bash Jembot.sh
+
+
+![CONTOH KALO UDAH DI RUN](https://d.uguu.se/ioFzZjuR.jpg)
