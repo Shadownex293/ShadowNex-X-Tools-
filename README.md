@@ -1,4 +1,4 @@
-# 1. install ini duku jing
+# 1. install ini dulu jing
 pkg update
 pkg upgrade
 termux-setup-storage
